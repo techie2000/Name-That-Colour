@@ -29,4 +29,14 @@
 		<human_readable>Virt de Terre</human_readable>
 		<reference>https://www.farrow-ball.com/paint-colours</reference>
 	</colour>
+	<colour>
+		<rgb>F7F6EE</rgb>
+		<human_readable>Frosted Dawn</human_readable>
+		<reference>https://www.dulux.co.uk/en/colour-details</reference>
+	</colour>
+	<colour>
+		<rgb>F8F2E4</rgb>
+		<human_readable>Morning Light</human_readable>
+		<reference>https://www.dulux.co.uk/en/colour-details</reference>
+	</colour>
 </name_that_colour>
